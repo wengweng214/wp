@@ -4,6 +4,6 @@ jQuery(function($) {
         });
 
     function open_media_window() {
-          alert('no function yet! it is still under construction');
+          alert('no function yet! it is still under');
     }
 });
